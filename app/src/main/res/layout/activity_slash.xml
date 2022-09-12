@@ -7,7 +7,7 @@
     android:background="@color/primary"
     android:gravity="center"
     android:orientation="vertical"
-    tools:context=".ActivitySlash">
+    tools:context=".SlashActivity">
 
     <ImageView
         android:id="@+id/logo_add"
@@ -18,6 +18,6 @@
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
         android:foregroundGravity="center_vertical|center_horizontal"
-        android:src="@drawable/Sanggraloka" />
+        android:src="@drawable/sanggraloka" />
 
 </RelativeLayout>

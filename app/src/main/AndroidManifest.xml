@@ -14,7 +14,7 @@
         android:theme="@style/Theme.Sanggraloka"
         tools:targetApi="31">
         <activity
-            android:name=".ActivitySlash"
+            android:name=".SlashActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
